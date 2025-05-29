@@ -1,1 +1,1 @@
-Hello, I’m learning GitHub!
+Hello! I’m learning to contribute to open source.
