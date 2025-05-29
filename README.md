@@ -1,1 +1,1 @@
-Hello! I’m learning to contribute to open source.
+# I am learning GitHub and making my first commit!
